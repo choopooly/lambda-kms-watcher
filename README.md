@@ -33,7 +33,7 @@ password = 'PASS'
 
 You can customize the event sent by creating any other function, or updating the `trigger` one.
 
-Event example for an aut0-scaling event:
+Event example for an scaling up event:
 
 ```
 def scale_up():
